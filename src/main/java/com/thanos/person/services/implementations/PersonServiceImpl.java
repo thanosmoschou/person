@@ -35,8 +35,7 @@ public class PersonServiceImpl implements PersonService
 	@Override
 	public Person read(String id) 
 	{
-		Person person = personRepository.findById(id).get();
-		return person;
+		return personRepository.findById(id).get();
 	}
 	
 	@Override
