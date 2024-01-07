@@ -1,0 +1,7 @@
+com\thanos\person\services\PersonService.class
+com\thanos\person\repositories\PersonRepository.class
+com\thanos\person\controllers\RequestsController.class
+com\thanos\person\domain\Person.class
+com\thanos\person\PersonApplication.class
+com\thanos\person\domain\Person$PersonBuilder.class
+com\thanos\person\services\implementations\PersonServiceImpl.class
